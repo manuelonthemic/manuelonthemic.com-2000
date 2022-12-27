@@ -88,4 +88,13 @@ a{
     border:2mm ridge red;
     background: linear-gradient(200deg, rgb(255, 134, 134) 0%, rgba(255,202,200,1) 100%);
 }
-  
+
+#fire {
+    position: fixed;
+    bottom: -100px;
+    width: 100%;
+    left: 50%;
+    height: null;
+    transform:scaleY(50%) translate(-50%, -100px);
+    z-index: -1;
+}
