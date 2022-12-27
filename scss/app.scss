@@ -63,3 +63,14 @@
 // Motion UI
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+body{
+    background: fixed;
+    background-image: url("/legacy/wall.png");
+    background-size: 100px;
+  }
+  #header {
+    text-align: center;
+  }
+
+  
