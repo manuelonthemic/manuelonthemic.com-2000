@@ -118,7 +118,6 @@ transform: scale(0.5) rotate(-25deg);
 
 #fire{
   position:fixed;
-  height: min-content;
   bottom: 0px;
   width: 100%;
   left: 50%;

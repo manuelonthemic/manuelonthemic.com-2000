@@ -98,3 +98,13 @@ a{
     transform:scaleY(50%) translate(-50%, -100px);
     z-index: -1;
 }
+
+#footer{
+  position:fixed;
+  bottom: 0px;
+  width: 100%;
+  height: 35px;
+  background-color: grey;
+  left: 50%;
+  transform: translate(-50%, -0%);
+}
