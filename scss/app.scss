@@ -66,7 +66,7 @@
 
 body{
     background: fixed;
-    background-image: url("wallchristmas.png");
+    background-image: url("wallcold.png");
     background-size: 100px;
   }
 
@@ -80,9 +80,9 @@ body{
     z-index: -1;
   }
 
-a{
+  a{
     text-decoration-line:underline;
-}
+  }
 
 #box{
     border:2mm ridge red;
@@ -97,6 +97,14 @@ a{
     height: null;
     transform:scaleY(50%) translate(-50%, -100px);
     z-index: -1;
+}
+
+#ice{
+  position: absolute;
+  top: -3%;
+  width: 110%;
+  height: 5%;
+  z-index: -1;
 }
 
 #footer{
