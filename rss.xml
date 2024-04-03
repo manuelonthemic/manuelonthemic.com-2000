@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>manuel on the mic</title>
+    <link>http://manuelonthemic.com/</link>
+    <language>en-us</language>
+    <copyright>&#169;2021 Manuel Newsom</copyright>
+    <itunes:author>Manuel "on the mic" newsom</itunes:author>
+    <description>
+      i mostly rant about random stuff but its usually funny (at least thats what they say)
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>manuel on the mic</itunes:name>
+      <itunes:email>matdiac@outlook.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://manuelonthemic.com/coverart.jpg"/>
+    <itunes:category text="Comedy">
+      <itunes:category text="Improv"/>
+    </itunes:category>
+    <itunes:explicit>yes</itunes:explicit>
+    <item>
+      <title>episode 1</title>
+      <description>
+        <![CDATA[kyle likes heroin.]]>
+      </description>
+      <link>http://manuelonthemic.com/episode-list.html</link>
+      <enclosure type="audio/mpeg" url="http://manuelonthemic.com/episodes/episode1/episode_1_edited_280921.waw" />
+      <guid>71eb86a3-1280-40af-bf25-b804eb79af3a</guid>
+      <pubDate>30 sep 2021 15:00:00 GMT</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+  </channel>
+</rss>
