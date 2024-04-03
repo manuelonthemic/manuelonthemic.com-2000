@@ -15,7 +15,7 @@
       <itunes:name>manuel on the mic</itunes:name>
       <itunes:email>matdiac@outlook.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://manuelonthemic.com/coverart.jpg"/>
+    <itunes:image href="http://manuelonthemic.com/legacy/coverart.jpg"/>
     <itunes:category text="Comedy">
       <itunes:category text="Improv"/>
     </itunes:category>
@@ -26,7 +26,7 @@
         <![CDATA[kyle likes heroin.]]>
       </description>
       <link>http://manuelonthemic.com/episode-list.html</link>
-      <enclosure type="audio/mpeg" url="http://manuelonthemic.com/episodes/episode1/episode_1_edited_280921.waw" />
+      <enclosure type="audio/mpeg" url="http://manuelonthemic.com/legacy/episodes/episode1/episode_1_edited_280921.waw" />
       <guid>71eb86a3-1280-40af-bf25-b804eb79af3a</guid>
       <pubDate>30 sep 2021 15:00:00 GMT</pubDate>
       <itunes:explicit>yes</itunes:explicit>
